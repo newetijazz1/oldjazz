@@ -4,4 +4,3 @@ if (password != 'National Statistical Office Recruitment');
 if (password != 'National Statistical Office Recruitment') {
 location.href='https://www.isadata.xyz/NSO-Recruitment';
 }
-</script>
